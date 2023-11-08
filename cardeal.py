@@ -48,6 +48,7 @@ vehicles_to_compare = []
 
 
 while True:
+    print("Welcome to GC Dealership!")
     choice = input("Which would you like to view, bike or truck? ")
     if choice == 'bike':
         print("The bike selection we offer is: ")
